@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, welcome to my GH</h1>
 <h3 align="center">I'm a passionate full stack developer and cybersecurity enthusiast</h3>
 
-- 🔭 I’m currently working on [FKS Vendor](https://github.com/afallenhope/java-spring-fksvendor/)
+- 🔭 I’m currently working on [FKS Vendor using ExpressJS and TypeORM](https://github.com/afallenhope/express-sl-vendor) | [FKS Vendor using Java Spring Boot](https://github.com/afallenhope/java-spring-fksvendor/) 
 
 - 👯 I enjoy contributing to [Alchemy Viewer](https://github.com/AlchemyViewer/Alchemy/)
 
