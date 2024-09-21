@@ -1,11 +1,11 @@
 <h1 align="center">Hello 👋, welcome to my GH</h1>
-<h3 align="center">I'm A passionate full stack developer and cybersecurity enthusiast</h3>
+<h3 align="center">I'm a passionate full stack developer and cybersecurity enthusiast</h3>
 
 - 🔭 I’m currently working on [FKS Vendor](https://github.com/afallenhope/java-spring-fksvendor/)
 
 - 👯 I enjoy contributing to [Alchemy Viewer](https://github.com/AlchemyViewer/Alchemy/)
 
-- ⚡ Fun fact **I'm into cybersecurity**
+- ⚡ Fun fact **I stream on [twitch.tv/fallenlearns](https://twitch.tv/fallenlearns)**
 
 <table>
   <thead>
