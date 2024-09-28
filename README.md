@@ -7,6 +7,10 @@
 
 - ⚡ Fun fact **I stream on [twitch.tv/fallenlearns](https://twitch.tv/fallenlearns)**
 
+
+[![Spotify](https://novatorem-afallenhope-projects.vercel.app/api/spotify)](https://open.spotify.com/user/aeriq.ravenheart)
+
+
 <table>
   <thead>
   <tr>
