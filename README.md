@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, welcome to my GH</h1>
 <h3 align="center">I'm a passionate full stack developer and cybersecurity enthusiast</h3>
-<h3 align="center">💼 Work GitHub [Visit](https://github.com/pierrecdevs)</h3>
+<h3 align="center">💼 Work GitHub <a href="https://github.com/pierrecdevs" target="_blank">visit</a></h3>
 
 
 - 🔭 I’m currently working on [FKS Vendor using ExpressJS and TypeORM](https://github.com/afallenhope/express-sl-vendor) | [FKS Vendor using Java Spring Boot](https://github.com/afallenhope/java-spring-fksvendor/) 
